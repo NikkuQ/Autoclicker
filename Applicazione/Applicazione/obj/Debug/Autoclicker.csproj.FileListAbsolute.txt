@@ -1,0 +1,10 @@
+C:\Users\dart1\source\repos\Applicazione\Applicazione\bin\Debug\Applicazione.exe.config
+C:\Users\dart1\source\repos\Applicazione\Applicazione\bin\Debug\Applicazione.exe
+C:\Users\dart1\source\repos\Applicazione\Applicazione\bin\Debug\Applicazione.pdb
+C:\Users\dart1\source\repos\Applicazione\Applicazione\obj\Debug\Autoclicker.csproj.AssemblyReference.cache
+C:\Users\dart1\source\repos\Applicazione\Applicazione\obj\Debug\Autoclicker.Autoclicker.resources
+C:\Users\dart1\source\repos\Applicazione\Applicazione\obj\Debug\Applicazione.Properties.Resources.resources
+C:\Users\dart1\source\repos\Applicazione\Applicazione\obj\Debug\Autoclicker.csproj.GenerateResource.cache
+C:\Users\dart1\source\repos\Applicazione\Applicazione\obj\Debug\Autoclicker.csproj.CoreCompileInputs.cache
+C:\Users\dart1\source\repos\Applicazione\Applicazione\obj\Debug\Applicazione.exe
+C:\Users\dart1\source\repos\Applicazione\Applicazione\obj\Debug\Applicazione.pdb
